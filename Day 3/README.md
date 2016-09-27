@@ -1,4 +1,6 @@
-# Objective 
+#Day 3: Intro to Conditional Statements
+
+## Objective 
 In this challenge, we're getting started with conditional statements. Check out the [Tutorial](https://www.hackerrank.com/challenges/30-conditional-statements/tutorial) tab for learning materials and an instructional video!
 
 ## Task 
