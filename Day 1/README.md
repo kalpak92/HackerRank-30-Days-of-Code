@@ -52,3 +52,5 @@ When we concatenate **HackerRank** with **is the best place to learn and practic
 
 **You will not pass this challenge if you attempt to assign the Sample Case values to your variables instead of following the instructions above and reading input from stdin.**
 
+## 
+![alt text](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%201/demo.png "Demo")
