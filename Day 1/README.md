@@ -1,4 +1,6 @@
-# Objective 
+# Day 1: Data Types
+
+## Objective 
 Today, we're discussing data types. Check out the [Tutorial](https://www.hackerrank.com/challenges/30-data-types/tutorial) tab for learning materials and an instructional video!
 
 ## Task 
