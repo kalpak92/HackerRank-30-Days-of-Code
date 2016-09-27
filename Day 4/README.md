@@ -82,3 +82,5 @@ Because **_initialAge >= 18_**, our code should print that the person is old. Th
 
 
 **The extra line at the end of the output is supposed to be there and is trimmed before being compared against the test case's expected output. If you're failing this challenge, check your logic and review your print statements for spelling errors.**
+
+![alt text](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%204/explanation.PNG "Explanation")
