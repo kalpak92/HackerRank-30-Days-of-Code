@@ -37,3 +37,6 @@ where **_total cost_** is the rounded integer result of the entire bill (**_meal
 ```Python
 The total meal cost is 15 dollars.
 ```
+
+### Explanation
+![alt text](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%202/explanation.PNG "explanation")
