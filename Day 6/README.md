@@ -40,3 +40,5 @@ Rn ak
 ```
 
 ### Explanation
+
+![Explanation](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%206/explanation.PNG)
