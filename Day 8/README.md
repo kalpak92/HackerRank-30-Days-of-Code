@@ -47,4 +47,5 @@ harry=12299933
 ```
 
 ### Explanation
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%208/explanation.png)
 
