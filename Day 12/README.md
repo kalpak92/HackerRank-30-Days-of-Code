@@ -14,7 +14,9 @@ Complete the Student class by writing the following:
    2. A string, **_lastName_**.
    3. An integer, **_id_**.
    4. An integer array (or vector) of test scores, **_scores_**.
- - A **_char calculate()_** method that calculates a Student object's average and returns the grade character representative of their calculated average:
+ - A **_char calculate()_** method that calculates a Student object's average and returns the grade character representative of their calculated average: 
+
+ ![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2012/Grading.png)
  
 
 ### Input Format
@@ -50,5 +52,5 @@ Heraldo Memelli 8135627
 ### Explanation
 
 This student had **2** scores to average: **_100_** and **_80_**. The student's average grade is **(100 + 80) / 2  = 90**. An average grade of _90_ corresponds to the letter grade _O_, so our _calculate()_ method should return the character **'O'**.
-
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2012/stubCode.png)
 
