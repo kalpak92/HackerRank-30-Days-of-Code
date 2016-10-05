@@ -4,7 +4,7 @@
 
 Today, we're building on our knowledge of Arrays by adding another dimension. Check out the [Tutorial](https://www.hackerrank.com/challenges/30-2d-arrays/tutorial) tab for learning materials and an instructional video!
 
-Context 
+#### Context 
 Given a **_6x6_** 2D Array, _A_:
 ```Python
 1 1 1 0 0 0
