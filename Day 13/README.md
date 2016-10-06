@@ -50,3 +50,4 @@ Title: The Alchemist
 Author: Paulo Coelho
 Price: 248
 ```
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2013/explanation.png)
