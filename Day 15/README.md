@@ -44,3 +44,7 @@ The locked code in your editor prints the ordered data values for each element i
 ```
 
 ### Explanation
+
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2015/expanation.png)
+
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2015/snippet.png)
