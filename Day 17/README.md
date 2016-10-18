@@ -38,9 +38,9 @@ n and p should be non-negative
 
 ### Explanation
 **_T = 4_**  
-**T<sub>0</sub>**: **3** and **5** are positive, so power returns the result of **3<sup>5</sup>, which is **243**.  
+**T<sub>0</sub>**: **3** and **5** are positive, so power returns the result of **3<sup>5</sup>**, which is **243**.  
 
-**T<sub>1</sub>**: **2** and **4** are positive, so power returns the result of **2<sup>4</sup>, which is **16**.  
+**T<sub>1</sub>**: **2** and **4** are positive, so power returns the result of **2<sup>4</sup>**, which is **16**.  
 
 **T<sub>2</sub>**: Both inputs (**-1** and **-2**) are negative, so power throws an exception and **n and p should be non-negative** is printed.   
 
