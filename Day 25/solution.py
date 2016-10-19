@@ -1,7 +1,6 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 import math
 
-
 def is_prime(n):
     root = n**.5
     upper = int(math.floor(root) + 1)
