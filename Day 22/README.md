@@ -35,9 +35,9 @@ The locked stub code in your editor will print the integer returned by your _get
 
 ### Explanation
 The input forms the following BST:  
-![]()
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2022/BST.PNG)
 
 The longest root-to-leaf path is shown below:  
-![]()
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2022/path.PNG)
 
 There are **4** nodes in this path that are connected by **3** edges, meaning our BST's **_height = 3_**. Thus, we print **_3_** as our answer.
