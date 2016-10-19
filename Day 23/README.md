@@ -38,6 +38,6 @@ Print the **_data_** value of each node in the tree's level-order traversal as a
 ### Explanation
 
 The input forms the following binary search tree: 
-![]()
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2023/explanation.PNG)
 
 We traverse each level of the tree from the root downward, and we process the nodes at each level from left to right. The resulting level-order traversal is **3 -> 2 -> 5 -> 1 -> 4 -> 7**, and we print these data values as a single line of space-separated integers.
