@@ -80,3 +80,4 @@ First Element: 1
 Last Element: 3
 ```
 ### Explanation
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2020/explanation.PNG)
