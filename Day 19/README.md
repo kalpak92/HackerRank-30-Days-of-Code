@@ -11,7 +11,7 @@ Write the _Calculator_ class, which implements the _AdvancedArithmetic_ interfac
 
 ### Input Format
 
-A single line containing an integer, .
+A single line containing an integer, **_n_**.
 
 ### Constraints
 
