@@ -41,4 +41,4 @@ Print a single integer denoting the library fine for the book received as input.
 
 ### Explanation
 
-![]()
+![](https://github.com/kalpak92/HackerRank-30-Days-of-Code/blob/master/Day%2026/explanation.PNG)
